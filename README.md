@@ -30,7 +30,7 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [Youtube: Infectious Disease & Microbiome Program Meeting: Learning from 26,000 cases of COVID-19 in Wuhan](https://www.youtube.com/watch?v=aQ9KIO1eXTA)
 
-[Scientific American: https://www.scientificamerican.com/article/near-real-time-studies-look-for-behavioral-measures-vital-to-stopping-coronavirus/?fbclid=IwAR0JoE5047UQbOlBNW_hNUce_VypGyqbadUmjMwstGCSJ5aHfFaq3f9HZRk](https://www.scientificamerican.com/article/near-real-time-studies-look-for-behavioral-measures-vital-to-stopping-coronavirus/?fbclid=IwAR0JoE5047UQbOlBNW_hNUce_VypGyqbadUmjMwstGCSJ5aHfFaq3f9HZRk)
+[Scientific American: https://www.scientificamerican.com/article/near-real-time-studies-look-for-behavioral-measures-vital-to-stopping-coronavirus](https://www.scientificamerican.com/article/near-real-time-studies-look-for-behavioral-measures-vital-to-stopping-coronavirus/?fbclid=IwAR0JoE5047UQbOlBNW_hNUce_VypGyqbadUmjMwstGCSJ5aHfFaq3f9HZRk)
 
 
 
