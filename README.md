@@ -28,10 +28,13 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 ## Public Media
 [Wikepedia: 2020 coronavirus pandemic in Illinois](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois)
 
+## Expert Voice
+
 [Youtube: Infectious Disease & Microbiome Program Meeting: Learning from 26,000 cases of COVID-19 in Wuhan](https://www.youtube.com/watch?v=aQ9KIO1eXTA)
 
 [Scientific American: https://www.scientificamerican.com/article/near-real-time-studies-look-for-behavioral-measures-vital-to-stopping-coronavirus](https://www.scientificamerican.com/article/near-real-time-studies-look-for-behavioral-measures-vital-to-stopping-coronavirus/?fbclid=IwAR0JoE5047UQbOlBNW_hNUce_VypGyqbadUmjMwstGCSJ5aHfFaq3f9HZRk)
 
+[Forbes: Boost Unemployment Benefits To Fight A Coronavirus Recession (Andrew Biggs)](https://www.forbes.com/sites/andrewbiggs/2020/03/17/boost-unemployment-benefits-to-fight-a-coronavirus-recession/#6368f46343ee)
 
 
 
