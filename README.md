@@ -15,6 +15,11 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 
+[Kaggle: COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1/overview)
+
+[Kaggle: COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+
+
 ## Organizations' Decisions
 
 [UChicago: Coronavirus Updates](https://coronavirusupdates.uchicago.edu/)
