@@ -9,6 +9,7 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [Real Time Updates of COVID-19 in US and Canada by 1Point3Acres](https://coronavirus.1point3acres.com/en)
 
+[covid19-dashboard](https://github.com/github/covid19-dashboard)
 
 
 ## Data
@@ -41,7 +42,8 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [Forbes: Boost Unemployment Benefits To Fight A Coronavirus Recession (Andrew Biggs)](https://www.forbes.com/sites/andrewbiggs/2020/03/17/boost-unemployment-benefits-to-fight-a-coronavirus-recession/#6368f46343ee)
 
-
+## Policy/Social Science Research
+[COVID-19 Social Science Research Tracker](https://github.com/natematias/covid-19-social-science-research)
 
 
 
