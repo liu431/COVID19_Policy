@@ -28,6 +28,7 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [Kaggle: COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
+[Github: COVID-19 Multilanguage Tweets Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset?fbclid=IwAR16LxZILCqqLjzt-rhcaLGvQgC2WLoP1QZISNDlHfemNtMJGhQQDVCtu-I)
 
 ## Organizations' Decisions
 
@@ -59,8 +60,11 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 [The Atlantic: How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/?utm_source=facebook&utm_campaign=the-atlantic-fb-test-1337-1-&utm_content=edit-promo&utm_medium=social&fbclid=IwAR1mLXOIZpMdDyOYwQxvV3tS2mxvJdJBIQXZm4p87POQlKYWmDu4yE1YXY)
 
 [Washington Post: Coronavirus will radically alter the U.S.](https://www.washingtonpost.com/health/2020/03/19/coronavirus-projections-us/?fbclid=IwAR3TWmB75Ml8Z_s19Vy5w4VT87J4ol0Ew2_vjk1O7h8hSBGcDVmo4Qe2oIA&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=Facebook#Echobox=1584719859)
+
 ## Policy/Social Science Research
 [COVID-19 Social Science Research Tracker](https://github.com/natematias/covid-19-social-science-research)
+
+[Christian Lopez, Malolan Vasu, and Caleb Gallemore (2020) Understanding the perception of COVID-19 policies by mining a multilanguage Twitter dataset](https://arxiv.org/ftp/arxiv/papers/2003/2003.10359.pdf)
 
 
 
