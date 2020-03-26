@@ -11,6 +11,8 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [covid19-dashboard](https://github.com/github/covid19-dashboard)
 
+[COVID Near You](https://www.covidnearyou.org/#!/)
+([Related news](https://www.cnbc.com/2020/03/23/coronavirus-tracking-site-built-by-amazon-apple-google-volunteers.html?fbclid=IwAR0hdGtgxjl1Z5xBLNyedUxycyu7OCnSeFM__tgmidK2zq4ArCCUL8c4Ibs))
 
 ## Data
 
