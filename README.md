@@ -50,6 +50,15 @@ There are growing number of predictive models and analysis for the COVID-19 pand
 
 [Forbes: Boost Unemployment Benefits To Fight A Coronavirus Recession (Andrew Biggs)](https://www.forbes.com/sites/andrewbiggs/2020/03/17/boost-unemployment-benefits-to-fight-a-coronavirus-recession/#6368f46343ee)
 
+[UBC: how the coronavirus will impact future cities](https://news.ubc.ca/2020/03/23/the-post-pandemic-city-ubc-expert-on-how-the-coronavirus-will-impact-future-cities/?fbclid=IwAR0OEZzqqVbUzL6tKAe0veAQOlpcu9iWjMVGqIhlJr_TKCKZrgO2PenAi6Y)
+
+## Public Opinion
+
+[The Chicago Maroon: We Need Transparent Communication About COVID-19](https://www.chicagomaroon.com/article/2020/3/25/need-transparent-communication-covid-19/?fbclid=IwAR0GZ4kVlbz-K20BfeJqrhv_gb9UU5Enzu8GmpW_9Ih1LId4QMmX6PedC78)
+
+[The Atlantic: How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/?utm_source=facebook&utm_campaign=the-atlantic-fb-test-1337-1-&utm_content=edit-promo&utm_medium=social&fbclid=IwAR1mLXOIZpMdDyOYwQxvV3tS2mxvJdJBIQXZm4p87POQlKYWmDu4yE1YXY)
+
+[Washington Post: Coronavirus will radically alter the U.S.](https://www.washingtonpost.com/health/2020/03/19/coronavirus-projections-us/?fbclid=IwAR3TWmB75Ml8Z_s19Vy5w4VT87J4ol0Ew2_vjk1O7h8hSBGcDVmo4Qe2oIA&utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=Facebook#Echobox=1584719859)
 ## Policy/Social Science Research
 [COVID-19 Social Science Research Tracker](https://github.com/natematias/covid-19-social-science-research)
 
