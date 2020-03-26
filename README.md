@@ -3,9 +3,15 @@ An open-source project on collecting and evaluating the projects, data, paper, a
 
 There are growing number of predictive models and analysis for the COVID-19 pandemic. However, their results differ and rely on various assumptions. To make them more useful, the models need to be open-source and the policy makers should inform the public how they use the model to make the decision (such as lockdown).
 
+## Model
+
+[JHU: Modeling the Spread of 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov-model/)
+
+
 ## Visualization Dashboard
 
 [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+([Article](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext))
 
 [Real Time Updates of COVID-19 in US and Canada by 1Point3Acres](https://coronavirus.1point3acres.com/en)
 
